@@ -1,0 +1,11 @@
+{
+  "name": "bai1-hello-docker",
+  "version": "1.0.0",
+  "description": "Simple Node.js app for Docker lab",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
